@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://josemarcelopomac.github.io/calculadora_v2/",
+  "homepage": "https://josemarcelopomac.github.io/calculadora_despliegue/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
